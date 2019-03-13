@@ -1,0 +1,20 @@
+        <div class="footer-sep"></div>
+        
+        <div class="footer-background">
+            <footer>
+                <span>© 2019 QuantLingAr</span><br />
+                <span class="site-dev">Sitio web creado y desarrollado por <a href="mailto:santiagogualchi@gmail.com">Santiago Gualchi</a></span>
+            </footer>
+        </div>
+        
+    {{ partial "footer_highlightjs" . }}
+    {{ partial "footer_mathjax" . }}
+    {{ template "_internal/google_analytics.html" . }}
+
+    <script src={{ "js/hamburger.js" | absURL }}></script>
+    {{ if eq .URL "/" }}
+    <script src={{ "js/display-randomly.js" | absURL }}></script>
+    <script src={{ "js/slideshow.js" | absURL }}></script>
+    {{ end }}
+  </body>
+</html>

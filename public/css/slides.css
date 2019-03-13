@@ -1,0 +1,10 @@
+.slideshow {
+  max-height: 250px;
+}
+
+.mySlides {
+  display: none;
+  align-self: center;
+  flex: 0 0 auto;
+  width: 100%;
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galería on QuantLingAr</title>
+    <link>/gallery/</link>
+    <description>Recent content in Galería on QuantLingAr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/gallery/20190208/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/20190208/</guid>
+      <description>Fotos de Miniescuela | QuantLingAr   QuantLingAr Novedades Galería Charlas Quiénes somos        8 de febrero de 2019 Miniescuela          © 2019 QuantLingAr
+Sitio web creado y desarrollado por Santiago Gualchi    // hamburger function hamburger() { var x = document.getElementById(&#34;nav-links&#34;); if (x.className === &#34;topnav&#34;) { x.className += &#34; responsive&#34;; } else { x.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/gallery/20190209/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/20190209/</guid>
+      <description>Fotos de I Workshop | QuantLingAr   QuantLingAr Novedades Galería Charlas Quiénes somos        9 de febrero de 2019 I Workshop                                  © 2019 QuantLingAr
+Sitio web creado y desarrollado por Santiago Gualchi    // hamburger function hamburger() { var x = document.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+        <div class="main-background">
+            <main>
+                <h1>{{ .Title }}</h1>
+                {{ range .Pages }}
+                <a  href="{{ .RelPermalink }}"><section class="sect-art talk">
+                    <div>
+                    <img class="thumbnail talk-thumbnail" src="{{ .Params.Image | absURL }}" />
+                    </div>
+                    <div class="talk-text">
+                        <h2>{{ .Params.title }}</h2>
+                        <h4>{{ .Params.author }}</h4>
+                        {{ .Summary }}<span>..</span>
+                    </div>
+                    <br />
+                </section></a>
+                {{ end }}
+            </main>
+        </div>

@@ -1,0 +1,17 @@
+        <div class="nav-background">
+            <nav class="navbar">
+                <a href="{{ "/" | relURL }}">
+                    <h1>{{ .Site.Title }}</h1>
+                </a>
+                <div class ="hamburger-bar">
+                    <div id="nav-links" class="topnav">
+                    {{ range .Site.Menus.main.ByWeight }}
+                        <a href="{{ .URL }}">{{ .Name }}</a>
+                    {{ end }}
+                    </div>
+                    <a href="javascript:void(0);" class="icon" onclick="hamburger()">
+                      <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+            </nav>
+        </div>

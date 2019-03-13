@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Novedades on QuantLingAr</title>
+    <link>/news/</link>
+    <description>Recent content in Novedades on QuantLingAr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Se acerca el primer workshop de Análisis Cuantitativos de Datos Lingüísticos</title>
+      <link>/news/paso-workshop-resultados/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/paso-workshop-resultados/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque. Blandit turpis cursus in hac habitasse. Suspendisse faucibus interdum posuere lorem ipsum dolor. Nunc eget lorem dolor sed viverra. Scelerisque fermentum dui faucibus in ornare quam viverra orci sagittis.</description>
+    </item>
+    
+    <item>
+      <title>Dictamos una miniescuela de análisis cuantitativos en Puan</title>
+      <link>/news/dictamos-miniescuela-puan/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/dictamos-miniescuela-puan/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque. Blandit turpis cursus in hac habitasse. Suspendisse faucibus interdum posuere lorem ipsum dolor. Nunc eget lorem dolor sed viverra. Scelerisque fermentum dui faucibus in ornare quam viverra orci sagittis.</description>
+    </item>
+    
+    <item>
+      <title>Se acerca el primer workshop de Análisis Cuantitativos de Datos Lingüísticos</title>
+      <link>/news/primer-workshop-analisis-cuantitativo/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/primer-workshop-analisis-cuantitativo/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque. Blandit turpis cursus in hac habitasse. Suspendisse faucibus interdum posuere lorem ipsum dolor. Nunc eget lorem dolor sed viverra. Scelerisque fermentum dui faucibus in ornare quam viverra orci sagittis.</description>
+    </item>
+    
+  </channel>
+</rss>

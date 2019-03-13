@@ -1,0 +1,43 @@
+body {
+  color: #393e46;
+}
+
+a {
+    color: black;
+}
+
+.nav-background, .footer-background {
+  background-color: #222831;
+}
+
+.navbar a {
+  color: white;
+}
+
+footer {
+  color: white;
+}
+
+.main-background {
+  background-color: white;
+}
+
+a:hover {
+  transition: .5s ease;
+    color: #00ADB5;
+}
+
+footer a {
+    color: white;
+}
+
+ .site-dev, .site-dev a {
+    color: #666;
+ }
+ 
+ .site-dev a:hover {
+  transition: .5s ease;
+    color: #00ADB5;
+    opacity: 1;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+ }

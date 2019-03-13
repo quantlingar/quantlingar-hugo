@@ -1,0 +1,64 @@
+baseurl = "https://quantlingar.github.io/"
+languageCode = "es"
+title = "QuantLingAr"
+theme = "quantlingar-theme"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Novedades"
+    url = "/news/"
+    weight = "1"
+[[menu.main]]
+    name = "Galería"
+    url = "/gallery/"
+    weight = "2"
+[[menu.main]]
+    name = "Charlas"
+    url = "/talks/"
+    weight = "3"
+[[menu.main]]
+    name ="Quiénes somos"
+    url = "/us/"
+    weight = "4"
+
+[params]
+    description = "Análisis cuantitativo de datos lingüísticos."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+    
+    # Tienen que estar en la carpeta static.
+    slides = [ "slides/biblioteca.jpg", "slides/07.jpg", "slides/estadistica.jpg" ]
+    
+    # Tienen que estar en la carpeta content.
+    featuredgallery = [
+        [ "gallery/20190209/20.jpeg", "gallery/20190209/thumbs/20.jpeg" ],
+        [ "gallery/20190209/25.jpg", "gallery/20190209/thumbs/25.jpg" ],
+        [ "gallery/20190209/29.jpg", "gallery/20190209/thumbs/29.jpg" ] 
+    ]
+    
+    # Enlaces del footer
+    footlinks = [
+        [],
+    ]
+        
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+

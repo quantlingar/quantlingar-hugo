@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlas on QuantLingAr</title>
+    <link>/talks/</link>
+    <description>Recent content in Charlas on QuantLingAr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Métodos cuantitativos y estadísticos en las ciencias del lenguaje: panorama, predicciones y recomendaciones</title>
+      <link>/talks/metodos-cuantitativos-estadisticos-damian/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/metodos-cuantitativos-estadisticos-damian/</guid>
+      <description>Esta charla provee un brevísimo panorama de los métodos cuantitativos en las ciencias del lenguaje tal y como se emplean hoy: por qué los necesitamos, cómo se usan en la práctica, qué rol juegan a lo largo de las ciencias del lenguaje y cómo es probable que se vean en un futuro cercano.</description>
+    </item>
+    
+    <item>
+      <title>Relaciones entre medidas de complejidad lingüística</title>
+      <link>/talks/relacion-medidas-complejidad-german/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/relacion-medidas-complejidad-german/</guid>
+      <description>&lt;p&gt;Este trabajo sintetiza una serie de conceptos que han sido propuestos por la literatura lingüística para medir la complejidad de los distintos aspectos de los idiomas naturales (fonología, morfología, sintaxis, semántica). Se adentra también en el estudio de las relaciones que pueden establecerse entre dichas medidas de complejidad, y analiza la posible existencia de “efectos de compensación” entre tales medidas (es decir, situaciones en las cuales una característica más compleja de un idioma se&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cinco dilemas de la metodología en investigación psicolingüística</title>
+      <link>/talks/dilemas-metodologia-psicolinguistica-carolina/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/dilemas-metodologia-psicolinguistica-carolina/</guid>
+      <description>&lt;p&gt;Uno de los objetivos de la psicolingüística es explicar, a través del uso paradigmas propios de la psicología experimental, cuáles son los mecanismos neurocognitivos y neurofisiológicos que tienen lugar durante la realización de tareas relacionadas con lenguaje (comprensión, producción, adquisición de lenguaje, etc.). En la presente charla se presentarán algunos de los dilemas metodológicos a los que se enfrentan los investigadores que trabajan en este campo desde el momento de abordaje de su objeto de estudio hasta la integración de los resultados a los modelos psicolingüísticos vigentes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Presentación del Grupo de Estadística para el Estudio del Lenguaje</title>
+      <link>/talks/grupo-estadistica-lenguaje-federico/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/grupo-estadistica-lenguaje-federico/</guid>
+      <description>&lt;p&gt;El grupo de estadística para el estudio del lenguaje (GEsEL) se formó en 2018 con el propósito de incorporar una perspectiva cuantitativa a la formación clásica en lingüística. En una primera fase nos ocupamos de adquirir una base teórica a fines de facilitar el acceso al material del área.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Presentación de Grupo de Lingüística Computacional</title>
+      <link>/talks/grupo-linguistica-computacional-macarena/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/grupo-linguistica-computacional-macarena/</guid>
+      <description>&lt;p&gt;Nuestro grupo de lingüística computacional está formado por estudiantes y graduados de la carrera de Letras que se han especializado en el área de la Lingüística Computacional, principalmente en el Procesamiento del Lenguaje Natural. Desde el 2017 hemos dictado dos cursos de extensión y nos reunimos regularmente tanto para estudiar diferentes temas relacionados con la lingüística formal, la lingüística matemática, el procesamiento del lenguaje natural y los métodos cuantitativos como para investigar y aprender a usar las herramientas de Procesamiento de lenguaje natural disponibles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lingüística histórica moderna: métodos filogenéticos</title>
+      <link>/talks/linguistica-historica-metodos-ezequiel/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/linguistica-historica-metodos-ezequiel/</guid>
+      <description>&lt;p&gt;En esta charla introduciremos una serie de métodos modernos en lingüística histórica. Estos surgen de una colaboración interdisciplinaria entre ramas tan diversas como la lingüística, la genética, las ciencias de la computación, la arqueología y la paleogeografía.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lexicografía y dialectología del español argentino: análisis desde las redes sociales</title>
+      <link>/talks/lexicografia-dialectologia-redes-damian/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/lexicografia-dialectologia-redes-damian/</guid>
+      <description>&lt;p&gt;The task of detecting regionalisms (expressions or words used in certain regions) has traditionally relied on the use of questionnaires and surveys, and has also heavily depended on the expertise and intuition of the surveyor. The irruption of Social Media and its microblogging services has produced an unprecedented wealth of content, mainly informal text generated by users, opening new opportunities for linguists to extend their studies of language variation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PLN, ciencia auxiliar para las humanidades digitales</title>
+      <link>/talks/pln-humanidades-digitales-gimena/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/pln-humanidades-digitales-gimena/</guid>
+      <description>&lt;p&gt;Las humanidades digitales (HD) constituyen un campo de investigación emergente de carácter interdisciplinario que trabaja y reflexiona en la intersección de las humanidades, las artes y las ciencias sociales con métodos y herramientas computacionales. Un rasgo distintivo de las HD es la relación bidireccional que proponen entre las humanidades y lo digital: se emplea la tecnología digital para la investigación en humanidades pero, a la vez, se interroga a la tecnología y a las humanidades en tanto objetos de estudio.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PLN como ventana a la mente y a la sociedad</title>
+      <link>/talks/pln-mente-sociedad-edgar/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/pln-mente-sociedad-edgar/</guid>
+      <description>Existe una gran variedad de técnicas de Procesamiento de Lenguaje Natural que permiten cuantificar similitud semántica entre palabras. Durante la presentación introduciré estas herramientas y contaré sobre algunas aplicaciones de las mismas, que van desde la detección de estereotipos en subtítulos de películas hasta el análisis de contenido en sueños.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+{{ if eq .URL "/" }}
+{{ partial "home.html" . }}
+{{ else if eq .Section "news" }}
+{{ partial "news.html" . }}
+{{ else if eq .Section "talks" }}
+{{ partial "talks.html" . }}
+{{ end }}
+
+{{ partial "footer.html" . }}

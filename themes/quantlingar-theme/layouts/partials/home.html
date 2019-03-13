@@ -1,0 +1,52 @@
+        <div class="slideshow">
+    {{ range .Site.Params.slides }}
+            <img class="mySlides" src="{{  . | absURL  }}">
+    {{ end }}
+        </div>
+
+        <div class="main-background">
+            <main>
+                <h1 class="home-title">Novedades</h1>
+{{ range first 3 (where .Pages ".Params.type" "news") }}
+                <section class="sect-art">
+                    <time>{{ .Date.Format "02/01/2006" }}</time>
+                    <a href="{{ .RelPermalink }}"><h2 class="preh1">{{ .Title }}</h2></a>
+                </section>
+{{ end }}
+                <div class="see-more">
+                    <a  href="news/"><span><strong>Ver más novedades</strong></span></a>
+                </div>
+
+                <h1 class="home-title">Charlas</h1>
+{{ range (where .Pages ".Params.type" "talk").ByWeight }}
+                <a  href="{{ .RelPermalink }}"><section class="sect-art hidden talk">
+                    <div>
+                    <img class="thumbnail talk-thumbnail" src="{{ .Params.Image | absURL }}" />
+                    </div>
+                    <div class="talk-text">
+                        <h2>{{ .Params.title }}</h2>
+                        <h4>{{ .Params.author }}</h4>
+                        {{ .Summary }}<span>..</span>
+                    </div>
+                    <br />
+                </section></a>
+{{ end }}
+                <div class="see-more">
+                    <a  href="talks/"><span><strong>Ver más charlas</strong></span></a>
+                </div>
+
+                <h1 class="home-title">Galería</h1>
+                <section class="sect-art">
+                    <div class="thumbnail-container">
+                        {{ range .Site.Params.featuredgallery }}
+                        <a href="{{ index . 0 }}" target="_blank">
+                            <img class ="thumbnail" src="{{ index . 1 }}" />
+                        </a>
+                        {{ end }}
+                    </div>
+                </section>
+                <div class="see-more">
+                    <a  href="gallery/"><span><strong>Ver más imágenes</strong></span></a>
+                </div>
+            </main>
+        </div>
